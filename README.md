@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Unity Engine,C#,C++
+- 🌱 I’m currently learning Java,Kotlin for Android Development
 - 📫 How to reach me: omeerfkiliic@gmail.com
 
