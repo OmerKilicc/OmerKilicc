@@ -1,21 +1,25 @@
-### Hi there 👋
+# 👋 Hi, I'm Ömer Kılıç
 
-- 🌱 I’m interested in Game Development and currently learning Unity Game Engine,C# and C++
-- 📫 How to reach me: omeerfkiliic@gmail.com
+## 🚀 About Me
+I'm a passionate developer focused on creating impactful solutions. I love exploring new technologies and contributing to the developer community.
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  
+## 🛠️ Tech Stack
+- 💻 Languages: Python, C#, C
+- 🌐 Web Technologies: HTML, CSS, Django
+- 🗄️ Databases: SQL, PostgreSQL
+- 🔧 Tools: Git, GitHub
+- 🎮 Game Engines: Unity
 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omeerfkiliic@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerf-kilic//)
-</div>
+## 🌱 Currently Learning
+- Django, DRF
+- Structure and Interpretation of Computer Programs
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerKilicc&show_icons=true&theme=radical)
 
+## 🤝 Let's Connect
+- LinkedIn: [https://www.linkedin.com/in/omerf-kilic/]
+- Email: [omeerfkiliic@gmail.com]
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=OmerKilicc&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerKilicc&theme=react&langs_count=7&layout=compact&hide=yacc" />
-</p>
 
 
