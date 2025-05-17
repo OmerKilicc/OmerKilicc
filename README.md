@@ -4,7 +4,7 @@
 I'm a passionate developer focused on creating impactful solutions. I love exploring new technologies and contributing to the developer community.
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C#, C
+- 💻 Languages: Python, C#, C, Java
 - 🌐 Web Technologies: HTML, CSS, Django
 - 🗄️ Databases: SQL, PostgreSQL
 - 🔧 Tools: Git, GitHub
